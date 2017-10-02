@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/.android/build-cache/28d47401b91fcd2656d2c47951c5fc651768dde0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/pre-dexed/debug/classes_201e5aaf1789ef9fb27f25203bebb36acfedb437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/.android/build-cache/c6de9e119315763e54ee8db800d212b650f29dc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/pre-dexed/debug/classes_28ee62ec9adb94ea9a78aa315653fa195ab4e34a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_dbefdf11fbd586f01d356077396a61c3120598c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/.android/build-cache/aa62cbb8271e1ef7d51f17ccfd26d9c680854303/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/pre-dexed/debug/classes_84aebbc4a888503784079e35bbdc194cb73f7f28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/pre-dexed/debug/gson-2.8.1_040eceed66096c46242b6109f816d2e71f0d4b1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/.android/build-cache/c8536b92067792ee5059b339ea7e3b7e066a54e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/pre-dexed/debug/classes_d6f13eb016f36bb044e8a236021e892b4dc6a32f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de0b540b16c415cba535f54cd17c9ca17eefc22f">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a3931077e9cf48fe582717fb4449247362c8bf33/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/.android/build-cache/4ca210b3b6eeaf3fbce2105ca44a1c7d0761b5ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/pre-dexed/debug/classes_f6e8f2b2f27c43e6293fa5fc681234c002b5097a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4e88e392229049f5e805854637ab4278bcb4f9f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_627c4d830c5334a7811c68f1a4b261c65c99b217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/.android/build-cache/c11528ed3d85c3777d68cde52291e54f33543ba9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/pre-dexed/debug/classes_ee76ad3605ceb0065c5d803e247bd8c142daab9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/.android/build-cache/af092fb121c4587f9aa67d20c154868499344c14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/pre-dexed/debug/classes_88bc2d255558fb8f7bc1a1efd7618c007d5c120c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/.android/build-cache/2e84529ee38882777c08dc6093275cf175d15171/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/pre-dexed/debug/classes_7858c444ccf2b040df7f3049bd23a929797702be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/.android/build-cache/57760538e97a8b8291684bb599fc3b97c12fe354/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/pre-dexed/debug/classes_c3fde207a6601c2a119d2531ec739e5dcaf643f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arthur/.android/build-cache/d6db39327d9a8902e942355f7c348c64587533ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/arthur/Documents/mingwei-CountBook/app/build/intermediates/pre-dexed/debug/classes_969ab038c768849fd5dc38f6ca9f87341d66f894.jar" />
+    </item>
+
+</items>
